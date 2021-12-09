@@ -67,14 +67,14 @@
 
 > ### Education
 
-    Pasay City West High School (Junior High School)
+    Pasay City West High School - (Junior High School 2012-2016)
         - Taken Tech-Voc Subject (Drafting / Architecture)
 
-    STI Pasay (Senior High School)
+    STI Pasay - (Senior High School 2016-2018)
         - Information Communication and Technology(strand) - Mobile and Web Developement(Track) 
 
-    Adamson University (College)
-        - 2nd yrs Undergraduate Barchelor of Science in Information Technology
+    Adamson University - (College 2018-2019)
+        - 2nd yrs - 1st sem Undergraduate Barchelor of Science in Information Technology(stop/drop)
 
 > ### Social Media
  

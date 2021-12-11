@@ -2,18 +2,26 @@
 </br>
 </br>
 </br>
-<style>
-    :root{
-        color-scheme:dark !important;
+
+<style defer>
+    /*forcing dark mode to any guest who visit my profile in github in unsupported dark theme browser*/
+    :root,body{
+        background-color: rgb(33,33,33);
     }
     /* i change a little bit for most element */
     *{
-        color:rgba(210,210,210,1);
+        color:rgba(220,220,220,1);
         letter-spacing:1px;
         font-family:'segoe ui symbol';
     }
+    /*forcing dark mode to any guest who visit my profile in github in supported dark theme browser*/
+    @support{
+        :root,body{
+            color-scheme:dark !important;
+        }
+    }
     /* clearing builtin style in some text element */
-    h1,h2,h3 > a,a,.name,.title,.non-pad-marn,.main-txt,.sub-txt{
+    h1,h2,h3 > a,a,.name,.title,.non-pad-marn,.main-txt,.sub-txt,.intro-txt{
         padding: 0px;
         margin:0px;
     }
@@ -29,6 +37,10 @@
     .title-txt{
         font-size:1.35em;
         color:rgba(180,180,180,1);
+    }
+    .intro-txt{
+        font-size:1.75em;
+        color:rgba(205,205,205,1);
     }
     .main-txt{
         font-size:1.15em;
@@ -56,12 +68,13 @@
     }
 
 </style>
+
 <image src="./images/Selfie_Me.jpg" alt="profile-logo" class="profile-logo" style="border:2px solid whitesmoke;border-radius:100%;" width=250 height=250>
 </br>
 </br>
 
 <p class="name"> Hello! I'm John Jayson B. De Leon </h1>
-<p class="title">Aspiring Software Developer and Digital Artist</p> </br></br>
+<p class="title">Aspiring Software Developer and Digital Artist</p> </br>
 <h3 class="non-pad-marn"> 
 Portfolio - <a href="https://www.savjaylade84.github.io/Jisun.github.io/index.html"><image alt="jisun-logo" src="./images/jisun.svg" style="padding:0px 7px;" width=20 height=20>Jisun</a> &nbsp;&nbsp;&nbsp; 
 Facebook Page - <a href="  https://www.facebook.com/Jisun-102294825339373/"><image alt="facebook-logo" src="./images/facebook.png" style="padding:0px 7px;" width=18 height=16>Jisun</a> &nbsp;&nbsp;&nbsp;
@@ -69,11 +82,11 @@ NFT Art - <a href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" 
 </h3>
 <hr class="non-pad-marn" width="70%" style="float:left;max-width:800px;min-width:750px;">
 </br>
-
-## My Journey  & Thought
-
 </br>
 
+<p class="intro-txt"> My Journey  & Thought </p>
+
+</br>
 
 <p class="title-txt">Software Programming </p>
 
@@ -110,8 +123,9 @@ NFT Art - <a href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" 
 
 <hr>
 </br>
+</br>
 
-## Technology Tool
+<p class="intro-txt"> Technology Tool</p>
 
 </br>
 
@@ -131,8 +145,8 @@ NFT Art - <a href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" 
 
 </br>
 
-<p class="main-txt">Database</p>
-<p class="sub-txt">Sql (Mssql)</p>
+<p class="main-txt">Database / Storage</p>
+<p class="sub-txt">Sql (Mssql) - Json - Xml</p>
 
 </br>
 
@@ -152,17 +166,23 @@ NFT Art - <a href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" 
 </br>
 
 <p class="main-txt">Prototyping Software</p>
-<p class="sub-txt">Invision Studio</p>
+<p class="sub-txt">Invision Studio - PyQt5 Designer</p>
 
 </br>
 
 <p class="main-txt">Revisioning Software</p>
 <p class="sub-txt">Git/Github</p>
 </br>
-<hr>
+
+<p class="main-txt">Cloud </p>
+<p class="sub-txt">Microsoft Azure (tried 2 times)</p>
 </br>
 
-## Education
+<hr>
+</br>
+</br>
+
+<p class="intro-txt"> Education</p>
 
 </br>
 
@@ -185,6 +205,7 @@ NFT Art - <a href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" 
 
 <hr>
 
+</br>
 </br>
 
 <p class="main-txt">Get My Resume on</p>
@@ -215,6 +236,3 @@ NFT Art - <a href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" 
 
 </br>
 </br>
-
-[Jisun]: https://www.savjaylade84.github.io/Jisun.github.io/index.html
-[Opensea]: https://www.opensea.io/savjaylade

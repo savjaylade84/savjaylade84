@@ -4,10 +4,6 @@
 </br>
 </br>
 
-<image src="./images/Selfie_Me.jpg" alt="profile-logo" class="profile-logo" style="border:2px solid whitesmoke !important;border-radius:100% !important;" width=250 height=250>
-</br>
-</br>
-
 <p class="name" style="color:rgba(220,220,220,1);font-size:2em;letter-spacing:1px;word-spacing:2px;padding: 0px;margin:0px;"> Hello! I'm John Jayson B. De Leon </h1>
 <p class="title" style="font-size:1.45em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">Aspiring Software Developer and Digital Artist</p> </br>
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> 

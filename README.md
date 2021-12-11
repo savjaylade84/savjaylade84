@@ -10,7 +10,7 @@
 
 <p class="name" style="color:rgba(220,220,220,1);font-size:2em;letter-spacing:1px;word-spacing:2px;padding: 0px;margin:0px;"> Hello! I'm John Jayson B. De Leon </h1>
 <p class="title" style="font-size:1.45em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">Aspiring Software Developer and Digital Artist</p> </br>
-<h3 style="padding: 0px;margin:0px;"> 
+<h4 style="padding: 0px;margin:0px;"> 
 Portfolio - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="https://www.savjaylade84.github.io/Jisun.github.io/index.html"><image alt="jisun-logo" src="./images/jisun.svg" style="padding:0px 7px;" width=20 height=20>Jisun</a> &nbsp;&nbsp;&nbsp; 
 Facebook Page - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="  https://www.facebook.com/Jisun-102294825339373/"><image alt="facebook-logo" src="./images/facebook.png" style="padding:0px 7px;" width=18 height=16>Jisun</a> &nbsp;&nbsp;&nbsp;
 NFT Art - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" src="./images/opensea.png" style="padding:0px 7px;" width=20 height=20>Opensea</a>
@@ -166,7 +166,7 @@ NFT Art - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';co
 <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px 0px 0px 10px;" href="https://www.facebook.com/jayson.deleon.393" style="margin:0px 0px"><image alt="facebook-logo" src="./images/facebook.png" style="padding:0px 10px 0px 0px " width=22 height=22></a>
 <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10px;margin:0px 10px;" href="https://www.Instagram.com/savjaylade84" style="margin:0px 10px"><image alt="instagram-logo" src="./images/Instagram.png" style="padding:0px 10px " width=22 height=22></a>
 <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10px;margin:0px 10px;" href="https://www.Twitter.com/johnjaysonbdel1/" style="margin:0px 10px"><image alt="twitter-logo" src="./images/Twitter.png" style="padding:0px 10px " width=22 height=22></a>
-<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10;margin:0px 10px;" href="https://www.LinkedIn.com/mwlite/in/john-jayson-de-leon-731033818b/" style="margin:0px 10px"><image alt="linkedin-logo" src="./images/Linkedin.png" style="padding:0px 10px " width=22 height=22></a>
+<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10;margin:0px 10px;" href="https://www.LinkedIn.com/mwlite/in/john-jayson-de-leon-731033818b/" style="margin:0px 10px"><image alt="linkedin-logo" src="./images/LinkedIn.png" style="padding:0px 10px " width=22 height=22></a>
 <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10;margin:0px 10px;" href="https://www.github.com/savjaylade84/" style="margin:0px 10px"><image alt="github-logo" src="./images/github.png" style="padding:0px 10px" width=22 height=22></a>
 
 </br>

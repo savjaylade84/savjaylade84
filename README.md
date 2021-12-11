@@ -11,9 +11,9 @@
 <p class="name" style="color:rgba(220,220,220,1);font-size:2em;letter-spacing:1px;word-spacing:2px;padding: 0px;margin:0px;"> Hello! I'm John Jayson B. De Leon </h1>
 <p class="title" style="font-size:1.45em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">Aspiring Software Developer and Digital Artist</p> </br>
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> 
-Portfolio - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="https://www.savjaylade84.github.io/Jisun.github.io/index.html"><image alt="jisun-logo" src="./images/jisun.svg" style="padding:0px 7px;" width=20 height=20>Jisun</a> &nbsp;&nbsp;&nbsp; 
-Facebook Page - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="  https://www.facebook.com/Jisun-102294825339373/"><image alt="facebook-logo" src="./images/facebook.png" style="padding:0px 7px;" width=18 height=16>Jisun</a> &nbsp;&nbsp;&nbsp;
-NFT Art - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" src="./images/opensea.png" style="padding:0px 7px;" width=20 height=20>Opensea</a>
+Portfolio - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px;" href="https://www.savjaylade84.github.io/Jisun.github.io/index.html"><image alt="jisun-logo" src="./images/jisun.svg" style="padding:0px 7px; margin:1em" width=20 height=20>Jisun</a> &nbsp;&nbsp;&nbsp; 
+Facebook Page - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px;" href="https://www.facebook.com/Jisun-102294825339373/"><image alt="facebook-logo" src="./images/facebook.png" style="padding:0px 7px;margin:1em;" width=18 height=16>Jisun</a> &nbsp;&nbsp;&nbsp;
+NFT Art - <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px;" href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" src="./images/opensea.png" style="padding:0px 7px;margin:1em;" width=20 height=20>Opensea</a>
 </h3>
 <hr style="padding: 0px;margin:0px;" width="70%" style="float:left;max-width:800px;min-width:750px;">
 </br>

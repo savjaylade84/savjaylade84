@@ -7,7 +7,7 @@
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> 
 Portfolio - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://www.savjaylade84.github.io/Jisun.github.io/index.html"><image alt="jisun-logo" src="./images/jisun.svg" style="padding:10px 7px; margin-right:1em" width=20 height=20>&nbsp;&nbsp;Jisun</a> &nbsp;&nbsp;&nbsp; 
 Facebook Page - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://www.facebook.com/Jisun-102294825339373/"><image alt="facebook-logo" src="./images/facebook.png" style="padding:10px 7px;margin-right:1em;" width=18 height=16>&nbsp;Jisun</a> &nbsp;&nbsp;&nbsp;
-NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://www.opensea.io/savjaylade"><image alt="opensea-logo" src="./images/opensea.png" style="padding:10px 7px;margin-right:1em;" width=20 height=20>&nbsp;&nbsp;Opensea</a>
+NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://opensea.io/savjaylade/"><image alt="opensea-logo" src="./images/opensea.png" style="padding:10px 7px;margin-right:1em;" width=20 height=20>&nbsp;&nbsp;Opensea</a>
 </h3>
 <hr style="padding: 0px;margin:0px;" width="100%">
 </br>

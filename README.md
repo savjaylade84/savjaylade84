@@ -70,7 +70,7 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 
 
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Frontend</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Css / Scss - Html5 - Javascript (Vanilla)</p>
+<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Css / Sass - Html5 - Javascript (Vanilla)</p>
 
 </br>
 
@@ -90,12 +90,12 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 </br>
 
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Digital Art Software</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Adobe Illustrator - Adobe Photoshop - Aseprite</p>
+<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Adobe Illustrator - Adobe Photoshop - Aseprite(Pixel Art)</p>
 
 </br>
 
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Prototyping Software</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Invision Studio - PyQt5 Designer</p>
+<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Invision Studio</p>
 
 </br>
 

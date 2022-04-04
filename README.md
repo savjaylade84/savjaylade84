@@ -59,7 +59,7 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 </br>
 
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Programming Language</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Csharp - Clang - Java</p>
+<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Csharp - Clang</p>
 
 </br>
 
@@ -84,7 +84,7 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 
 </br>
 
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Integration Developement Enviroment</p>
+<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Integration Development Environments</p>
 <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Visual Studio Code - Visual Studio (2019) - Eclipse</p>
 
 </br>
@@ -99,7 +99,7 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 
 </br>
 
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Revisioning Software</p>
+<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Revisioning Tools</p>
 <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Git/Github</p>
 </br>
 

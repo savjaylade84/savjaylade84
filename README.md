@@ -13,7 +13,7 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 </br>
 </br>
 
-<p style="font-size:1.75em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> My Journey  & Thought </p>
+<p style="font-size:1.75em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> Little About Me </p>
 
 </br>
 
@@ -105,31 +105,6 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Cloud </p>
 <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Microsoft Azure (tried 2 times)</p>
-</br>
-
-<hr>
-</br>
-</br>
-
-<p style="font-size:1.75em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> Education</p>
-
-</br>
-
- <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> Pasay City West High School - (Junior High School 2012-2016) </p>
- <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Taken Tech-Voc Subject (Drafting / Architecture) </p>
-
-</br>
-
- <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> STI Pasay - (Senior High School 2016-2018)
- <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Information Communication and Technology(strand) - Mobile and Web Developement(Track) 
-
-</br>
-</br>
-
- <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> Adamson University - (College 2018-2019)
- <p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> 2nd yrs - 1st sem Undergraduate Barchelor of Science in Information Technology(stop/drop)
-
-</br>
 </br>
 
 <hr>

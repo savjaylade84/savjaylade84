@@ -122,8 +122,8 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 
 <p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Contact Me on</p>
 <br>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Email - savjaylade84@gmail.com </p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Contact No. - +639957189101 / +639070218654</p>
+<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Email - <b>savjaylade84@gmail.com</b> </p>
+<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Contact No. - <b>+639957189101 / +639070218654</b></p>
 
 </br>
 </br>

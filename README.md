@@ -13,7 +13,7 @@ NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe 
 </br>
 </br>
 
-<p style="font-size:1.75em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> Little About Me </p>
+<p style="font-size:2em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> Little About Me </p>
 
 </br>
 

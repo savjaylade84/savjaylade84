@@ -42,7 +42,7 @@
 <hr>
 
 <div align='center'>
-<h3>Design</h3>
+<h3>Languages</h3>
 <img src='https://img.shields.io/badge/-Python-000?&logo=Python' height=25>
 <img src='https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript' height=25>
 <img src='https://img.shields.io/badge/-Clang-000?&logo=C' height=25>

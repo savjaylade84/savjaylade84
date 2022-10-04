@@ -27,7 +27,7 @@
 	<img src='https://img.shields.io/badge/-Opensea-000?&logo=Opensea' height=30>
 </a>
 <a href='https://drive.google.com/file/d/1t67Pad1DGfPCSks2Ol5E6WFEN3B2BcSf/view?usp=drivesdk'>
-	<img src='https://img.shields.io/badge/-Google_Drive-000?&logo=GoogleDrive' height=25>
+	<img src='https://img.shields.io/badge/-Google_Drive-000?&logo=GoogleDrive' height=30>
 </a>
 </div>
 <br>

@@ -1,146 +1,82 @@
-<html style=" color-scheme:dark !important;background-color: rgb(33,33,33);">
-<meta name="color scheme" content="dark">
-</br>
-</br>
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> 
-Portfolio - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://savjaylade84.github.io/Jisun.github.io/"><image alt="jisun-logo" src="./images/jisun.svg" style="padding:10px 7px; margin-right:1em" width=20 height=20>&nbsp;&nbsp;Jisun</a> &nbsp;&nbsp;&nbsp; 
-Facebook Page - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://www.facebook.com/Jisun-102294825339373/"><image alt="facebook-logo" src="./images/facebook.png" style="padding:10px 7px;margin-right:1em;" width=18 height=16>&nbsp;Jisun</a> &nbsp;&nbsp;&nbsp;
-NFT Art - &nbsp;<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding-right:10px;margin:10px;" href="https://opensea.io/savjaylade/"><image alt="opensea-logo" src="./images/opensea.png" style="padding:10px 7px;margin-right:1em;" width=20 height=20>&nbsp;&nbsp;Opensea</a>
-</h3>
-<hr style="padding: 0px;margin:0px;" width="100%">
-</br>
-</br>
-
-<p style="font-size:2em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> Little About Me </p>
-
-</br>
-
-<p style="font-size:1.35em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">Software Programming </p>
-
-<image src="./images/programming_sc.png" style="margin:10px 10px;" alt="programming python project" width=650 height=350> 
-<image src="./images/programming_sc2.png" style="margin:10px 10px;" alt="programming website portfolio project" width=650 height=350>
-
-<p style="font-size:1.1em;width:80%;letter-spacing:1px;word-spacing:1px;padding:.5em 1.5em .1em 1.5em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">
-    Most skill and knowledge that I acquired are come from self-study, attending community 
-    seminar and participating some events. Being resourceful is one of my biggest strength like 
-    when i was ICT senior high student that time I don't have a computer to work with so I
-    improvise like coding in smartphone or spending all of my school allowance in renting 
-    computer in a computer cafe just to learn. Even learning material I even improvise 
-    like downloading from free wifi( i know public wifi is dangerous and unsecure but there's 
-    no option in that time). All of this help me a lot even in my college days although i didn't 
-    finish college due to financial problem and pandemic happen but it didn't hinder me 
-    to continue forward.
-</p>
-
-</br>
-
-<p style="font-size:1.35em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">Art & Design (Digital & Classic)</p>
-
-<image src="./images/edit.png" alt="doing photoshop" style="margin:10px 10px;"   width=650 height=350>
-<image src="./images/edit2.png" alt="doing aseprite" style="margin:10px 10px;"  width=650 height=350>
-
-<p style="font-size:1.1em;width:80%;letter-spacing:1px;word-spacing:1px;padding:.5em 1.5em .1em 1.5em;color:rgba(180,180,180,1);padding: 0px;margin:0px;">
-    I first encounter art when I was a kid, In that time I become very passionate to it.
-    Art became my medium of expressing my thought, emotion, imagination, perception
-    , and etc. Doing art is always my number one hobby and yeah I'm very art geeky aside 
-    from that I'm also a astronomy, economy ,history ,psychology ,and technology geeky ;).
-</p>
-</br>
-</br>
-
-<hr>
-</br>
-</br>
-
-<p style="font-size:1.75em;color:rgba(205,205,205,1);padding: 0px;margin:0px;"> Technology Tool</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Programming Language</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Csharp - Clang</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Scripting Language</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Python (3.9) - Bash - Bat</p>
-
-</br>
-
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Frontend</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Css / Sass - Html5 - Javascript (Vanilla) - Flask/QT5(python)</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Database / Storage</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Sql (Mssql) - Json - Xml</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Operating System</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Window - Linux (WSL debian flavor)</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Integration Development Environments</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Visual Studio Code - Visual Studio (2019) - Eclipse</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Digital Art Software</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Adobe Illustrator - Adobe Photoshop - Aseprite(Pixel Art)</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Prototyping Software</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Invision Studio</p>
-
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Revisioning Tools</p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Git/Github</p>
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Cloud </p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;">Microsoft Azure (tried 2 times)</p>
-</br>
-
-<hr>
-
-</br>
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Get My Resume on</p>
-</br>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> <a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px;margin:0px;" href="https://drive.google.com/file/d/1t67Pad1DGfPCSks2Ol5E6WFEN3B2BcSf/view?usp=drivesdk">Google Drive </a></p>
-
-
-</br>
-</br>
-
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;">Contact Me on</p>
+<div align="center">
+  <img src="https://github.com/savjaylade84/savjaylade84/raw/main/images/jisun.svg" width="200" height="200"/><br>
+  <h2>Software Developer</h2>
+</div>
 <br>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Email - <b>savjaylade84@gmail.com</b> </p>
-<p style="font-size:1.1em;color:rgba(170,170,170,1);padding: 0px;margin:0px;"> Contact No. - <b>+639957189101 / +639070218654</b></p>
+<div align="center">
+<a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b'>
+	<img src='https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin' height=30>
+</a>
+<a href='https://www.facebook.com/jayson.deleon.393'>
+	<img src='https://img.shields.io/badge/-Facebook-000?&logo=Facebook' height=30>
+</a>
+<a href='https://www.instagram.com/savjaylade84/'>
+	<img src='https://img.shields.io/badge/-Instagram-000?&logo=Instagram' height=30>
+</a>
+<a href='https://www.twitter.com/Johnjaysonbdel1'>
+	<img src='https://img.shields.io/badge/-Twitter-000?&logo=Twitter' height=30>
+</a>
+<br>
+<a href='https://hackerrank.com/savjaylade84'>
+	<img src='https://img.shields.io/badge/-Hackerrank-000?&logo=Hackerrank' height=30>
+</a>
+<a href='https://www.facebook.com/jayson.deleon.393'>
+	<img src='https://img.shields.io/badge/-Facebook_Page-000?&logo=Facebook' height=30>
+</a>
+<a href='https://opensea.io/savjaylade/'>
+	<img src='https://img.shields.io/badge/-Opensea-000?&logo=Opensea' height=30>
+</a>
+<a href='https://drive.google.com/file/d/1t67Pad1DGfPCSks2Ol5E6WFEN3B2BcSf/view?usp=drivesdk'>
+	<img src='https://img.shields.io/badge/-Google_Drive-000?&logo=GoogleDrive' height=25>
+</a>
+</div>
+<br>
+<hr>
 
-</br>
-</br>
+<div align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff' width=500 height=250>
+<br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff'width=500 height=250>
+</div>
 
-<p style="font-size:1.15em;color:rgba(200,200,200,1);padding: 0px;margin:0px;"> Follow Me on </p>
+<hr>
 
-</br>
+<div align='center'>
+<h3>Design</h3>
+<img src='https://img.shields.io/badge/-Python-000?&logo=Python' height=25>
+<img src='https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript' height=25>
+<img src='https://img.shields.io/badge/-Clang-000?&logo=C' height=25>
+<img src='https://img.shields.io/badge/-Sass-000?&logo=Sass' height=25>
+<img src='https://img.shields.io/badge/-Html5-000?&logo=Html5' height=25>
+<img src='https://img.shields.io/badge/-CSharp-000?&logo=Csharp' height=25>
+<img src='https://img.shields.io/badge/-Bash-000?&logo=Shell' height=25>
+</div>
 
-<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 0px 0px 10px;margin:0px 0px 0px 2em;" href="https://www.facebook.com/jayson.deleon.393" style="margin:0px 0px"><image alt="facebook-logo" src="./images/facebook.png" style="padding:0px 10px 0px 0px " width=22 height=22></a>&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10px;margin:0px 2em;" href="https://www.instagram.com/savjaylade84/" style="margin:0px 10px"><image alt="instagram-logo" src="./images/Instagram.png" style="padding:0px 10px " width=22 height=22></a>&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10px;margin:0px 2em;" href="https://www.twitter.com/Johnjaysonbdel1" style="margin:0px 10px"><image alt="twitter-logo" src="./images/Twitter.png" style="padding:0px 10px " width=22 height=22></a>&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10;margin:0px 2em;" href="https://www.linkedin.com/mwlite/in/john-jayson-de-leon-73532818b" style="margin:0px 10px"><image alt="linkedin-logo" src="./images/LinkedIn.png" style="padding:0px 10px " width=22 height=22></a>&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a style="letter-spacing:1px;font-weight:700;font-family:'segoe ui';color:rgb(100,100,200);padding: 0px 10;margin:0px 2em;" href="https://www.github.com/savjaylade84/" style="margin:0px 10px"><image alt="github-logo" src="./images/github.png" style="padding:0px 10px" width=22 height=22></a>&nbsp;&nbsp;
+<div align='center'>
+<h3>Technologies & Framework</h3>
+<br>
+<img src='https://img.shields.io/badge/-Linux-000?&logo=Linux' height=25>
+<img src='https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu' height=25>
+<img src='https://img.shields.io/badge/-Windows-000?&logo=Windows' height=25>
+<img src='https://img.shields.io/badge/-Flask-000?&logo=Flask' height=25>
+<img src='https://img.shields.io/badge/-PyQT5-000?&logo=QT' height=25>
+<img src='https://img.shields.io/badge/-Node.js-000?&logo=node.js' height=25>
+<br>
+<img src='https://img.shields.io/badge/-Postgres-000?&logo=Postgresql' height=25>
+<img src='https://img.shields.io/badge/-Mysql-000?&logo=Mysql' height=25>
+<img src='https://img.shields.io/badge/-Json-000?&logo=Json' height=25>
+<img src='https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode' height=25>
+<img src='https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio' height=25>
+<br>
+<img src='https://img.shields.io/badge/-Git-000?&logo=Git' height=25>
+<img src='https://img.shields.io/badge/-Github-000?&logo=Github' height=25>
+<br>
+</div>
 
-</br>
-</br>
+<div align='center'>
+<h3>Design</h3>
+<img src='https://img.shields.io/badge/-Invision-000?&logo=Invision' height=25>
+<img src='https://img.shields.io/badge/-Adobe_Illustrator-000?&logo=AdobeIllustrator' height=25>
+<img src='https://img.shields.io/badge/-Adobe_Photoshop-000?&logo=AdobePhotoshop' height=25>
+<img src='https://img.shields.io/badge/-Aseprite-000?&logo=Aseprite' height=25>
+</div>

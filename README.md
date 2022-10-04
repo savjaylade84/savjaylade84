@@ -46,7 +46,8 @@
 <img src='https://img.shields.io/badge/-Python-000?&logo=Python' height=25>
 <img src='https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript' height=25>
 <img src='https://img.shields.io/badge/-Clang-000?&logo=C' height=25>
-<img src='https://img.shields.io/badge/-Sass-000?&logo=Sass' height=25>
+<img src='https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B' height=25>
+<img src='https://img.shields.io/badge/-CSS3-000?&logo=CSS3' height=25>
 <img src='https://img.shields.io/badge/-Html5-000?&logo=Html5' height=25>
 <img src='https://img.shields.io/badge/-CSharp-000?&logo=Csharp' height=25>
 <img src='https://img.shields.io/badge/-Bash-000?&logo=Shell' height=25>
@@ -64,11 +65,14 @@
 <br>
 <img src='https://img.shields.io/badge/-Postgres-000?&logo=Postgresql' height=25>
 <img src='https://img.shields.io/badge/-Mysql-000?&logo=Mysql' height=25>
+<img src='https://img.shields.io/badge/-Mssql-000?&logo=microsoft-sql-server' height=25>
 <img src='https://img.shields.io/badge/-Json-000?&logo=Json' height=25>
+<img src='https://img.shields.io/badge/-Sass-000?&logo=Sass' height=25>
+<img src='https://img.shields.io/badge/-Git-000?&logo=Git' height=25>
+<br>
 <img src='https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode' height=25>
 <img src='https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio' height=25>
-<br>
-<img src='https://img.shields.io/badge/-Git-000?&logo=Git' height=25>
+<img src='https://img.shields.io/badge/-Sublime-000?&logo=SublimeText' height=25>
 <img src='https://img.shields.io/badge/-Github-000?&logo=Github' height=25>
 <br>
 </div>

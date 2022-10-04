@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/savjaylade84/savjaylade84/raw/main/images/jisun.svg" width="200" height="200"/><br>
+  <img src="https://github.com/savjaylade84/savjaylade84/raw/main/images/jisun.svg" width="150" height="150"/><br>
   <h2>Software Developer</h2>
 </div>
 <br>

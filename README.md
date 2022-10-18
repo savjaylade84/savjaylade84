@@ -3,7 +3,7 @@
   <img src="https://github.com/savjaylade84/savjaylade84/raw/main/images/jisun.svg" width="150" height="150"/>
   </a>
   <br>
-  <h2>Software Developer</h2>
+  <h2>Aspiring Software Developer / Engineer</h2>
 </div>
 <br>
 <div align="center">

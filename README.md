@@ -7,6 +7,9 @@
 </div>
 <br>
 <div align="center">
+<a href='https://savjaylade84.github.io/Jisun.github.io/'>
+	<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=30>
+</a>
 <a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b'>
 	<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' height=30>
 </a>

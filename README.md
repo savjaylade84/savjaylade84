@@ -8,8 +8,10 @@
 <br>
 <div align="center">
 <a href='https://savjaylade84.github.io/Jisun.github.io/'>
-	<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=30>
+	<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
 </a>
+<br>
+<br>
 <a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b'>
 	<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' height=30>
 </a>
@@ -54,6 +56,7 @@
 <img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' height=25>
 <img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' height=25>
 <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' height=25>
+<br>
 <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' height=25>
 <img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' height=25>
 <img src='https://img.shields.io/badge/-Bash-000?&logo=Shell' height=25>

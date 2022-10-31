@@ -42,8 +42,10 @@
 <hr>
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff' width=500 height=250>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=savjaylade84&stroke=64748b&theme=darc&background=3B2146&ring=0891b2&fire=0891b2&currStreakNum=fff&currStreakLabel=fff&sideNums=fffb&sideLabels=fff&dates=fff" width=500 height=250 >
 <br>
+<img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff' width=500 height=250 >
+<br> 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff'width=500 height=250>
 </div>
 

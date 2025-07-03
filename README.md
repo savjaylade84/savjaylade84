@@ -7,8 +7,8 @@
 </div>
 <br>
 <div align="center">
-<a href='https://savjaylade84.github.io/Jisun.github.io/'>
-	<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
+<a href='https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing'>
+	<img src='https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
 </a>
 <br>
 <br>

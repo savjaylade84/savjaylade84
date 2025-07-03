@@ -16,7 +16,7 @@
 	<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' height=30>
 </a>
 <a href='https://www.twitter.com/Johnjaysonbdel1'>
-	<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' height=30>
+	<img src='https://img.shields.io/twitter/follow/Johnjaysonbdel1?style=for-the-badge&logo=X&logoColor=white&color=%25231DA1F2' height=30>
 </a>
 <br>
 <a href='https://hackerrank.com/savjaylade84'>

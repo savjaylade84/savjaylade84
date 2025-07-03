@@ -12,12 +12,6 @@
 </a>
 <br>
 <br>
-<a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b'>
-	<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' height=30>
-</a>
-<a href='https://www.facebook.com/jayson.deleon.393'>
-	<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' height=30>
-</a>
 <a href='https://www.instagram.com/savjaylade84/'>
 	<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' height=30>
 </a>
@@ -34,19 +28,16 @@
 <a href='https://opensea.io/savjaylade/'>
 	<img src='https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white' height=30>
 </a>
-<a href='https://drive.google.com/file/d/1t67Pad1DGfPCSks2Ol5E6WFEN3B2BcSf/view?usp=drivesdk'>
-	<img src='https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white' height=30>
-</a>
 </div>
 <br>
 <hr>
 
 <div align='center'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=savjaylade84&stroke=64748b&theme=darc&background=3B2146&ring=0891b2&fire=0891b2PAT_1&currStreakNum=fff&currStreakLabel=fff&sideNums=fffb&sideLabels=fff&dates=fff" width=500 height=250 >
-<br>
-<img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff&PAT_1&show_icons=true' width=500 height=250 >
-<br> 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=darc&bg_color=3B2146&title_color=fff&PAT_1&text_color=fff'width=500 height=250>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=savjaylade84&stroke=64748b&theme=darc&background=3B2146&ring=0891b2&fire=0891b2PAT_1&currStreakNum=fff&currStreakLabel=fff&sideNums=fffb&sideLabels=fff&dates=fff">
+<br><br>
+<img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff&PAT_1&show_icons=true'>
+<br><br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=darc&bg_color=3B2146&title_color=fff&PAT_1&text_color=fff'>
 </div>
 
 <hr>

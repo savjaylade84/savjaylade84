@@ -12,6 +12,9 @@
 </a>
 <br>
 <br>
+<a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b/'>
+	<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height=30>
+</a>
 <a href='https://www.instagram.com/savjaylade84/'>
 	<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' height=30>
 </a>
@@ -19,6 +22,9 @@
 	<img src='https://img.shields.io/twitter/follow/Johnjaysonbdel1?style=for-the-badge&logo=X&logoColor=white&color=%25231DA1F2' height=30>
 </a>
 <br>
+<a href='https://www.codewars.com/users/savjaylade84'>
+	<img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' height=30>
+</a>
 <a href='https://hackerrank.com/savjaylade84'>
 	<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' height=30>
 </a>

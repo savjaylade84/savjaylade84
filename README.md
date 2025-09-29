@@ -10,6 +10,9 @@
 <a href='https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing'>
 	<img src='https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
 </a>
+<a href='https://jisun-portfolio.onrender.com'>
+	<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
+</a>
 <br>
 <br>
 <a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b/'>
@@ -100,4 +103,5 @@
 
 <br>
 <br>
+
 

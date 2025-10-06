@@ -43,7 +43,7 @@
 <br>
 <hr>
 
-<div align='center' style="text-decoration:none;" >
+<div align='center' style="text-decoration:none;width:100%;" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=savjaylade84&stroke=64748b&theme=darc&background=3B2146&ring=0891b2&fire=0891b2PAT_1&currStreakNum=fff&currStreakLabel=fff&sideNums=fffb&sideLabels=fff&dates=fff">
 <br><br>
 <img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff&PAT_1&show_icons=true'>

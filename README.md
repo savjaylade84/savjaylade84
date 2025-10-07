@@ -11,10 +11,10 @@
 <br>
 
 <div align="center">
-<a href='https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing' style="text-decoration:none !important;">
+<a href='https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing' style="text-decoration:none;">
 	<img src='https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white' height=30>
 </a>&nbsp;
-<a href='https://savjalade84.pythonanywhere.com/'  style="text-decoration:none !important;">
+<a href='https://savjalade84.pythonanywhere.com/'  style="text-decoration:none;">
 	<img src='https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white' height=30>
 </a>&nbsp;
 <br>

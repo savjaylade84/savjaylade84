@@ -18,6 +18,8 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 
 ---
 
+### 💻 Social Media & Coding Practice
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-jayson-de-leon-73532818b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/savjaylade84/)
 [![Twitter](https://img.shields.io/twitter/follow/Johnjaysonbdel1?style=for-the-badge&logo=X&logoColor=white&color=%231DA1F2)](https://www.twitter.com/Johnjaysonbdel1)
@@ -88,6 +90,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![InVision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+
 
 
 

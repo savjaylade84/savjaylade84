@@ -8,7 +8,7 @@
 <h2 align="center">Aspiring Software Developer / Engineer</h2>
 
 <!-- 🌸 LINKS -->
-<p align="center">
+<p align="center" style="text-decoration:none;">
   <a href="https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" height="30" alt="Resume">
   </a>

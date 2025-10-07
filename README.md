@@ -1,21 +1,20 @@
 <!-- 🌸 HEADER / LOGO -->
-<p align="center">
+<p >
   <a href="https://savjaylade84.github.io/Jisun.github.io/">
     <img src="https://github.com/savjaylade84/savjaylade84/raw/main/images/jisun.svg" width="150" height="150" alt="Jisun Logo">
   </a>
 </p>
 
-<h2 align="center">Aspiring Software Developer / Engineer</h2>
+<h2 >Aspiring Software Developer / Engineer</h2>
 
 <!-- 🌸 LINKS -->
-<p align="center">
-
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://savjalade84.pythonanywhere.com/)
 
-</p>
+<br>
 
-<p align="center">
+---
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-jayson-de-leon-73532818b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/savjaylade84/)
@@ -24,43 +23,43 @@
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/savjaylade84)
 [![Facebook Page](https://img.shields.io/badge/Facebook_Page-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Jisun-102294825339373)
 [![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/savjaylade/)
-</p>
 
 ---
 
 <!-- 🌸 GITHUB STATS -->
-<p align="center">
+<br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=savjaylade84&theme=dark&background=3B2146&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=500" alt="GitHub Streak Stats">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&show_icons=true&card_width=500" alt="GitHub Stats">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500" alt="Top Languages">
-</p>
+
+<br>
 
 ---
 
 <!-- 🌸 PROGRAMMING LANGUAGES -->
 ### 🧠 Programming Languages
-<p align="center">
+
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-</p>
+<br>
 
 ---
 
 <!-- 🌸 TECHNOLOGIES & FRAMEWORKS -->
 ### ⚙️ Technologies & Frameworks
-<p align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -81,20 +80,16 @@
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</p>
+<br>
 
 ---
 
 <!-- 🌸 DESIGN -->
 ### 🎨 Design
-<p align="center">
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![InVision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+<br>
 
-</p>
-
-<br><br>

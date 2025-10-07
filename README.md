@@ -7,16 +7,20 @@
   <br>
   <h2>Aspiring Software Developer / Engineer</h2>
 </div>
+
 <br>
+
 <div align="center" style="text-decoration:none;">
 <a href='https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing'>
-	<img src='https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
+	<img src='https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white' height=40>
 </a>&nbsp;
 <a href='https://savjalade84.pythonanywhere.com/'>
-	<img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' height=40>
+	<img src='https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white' height=40>
 </a>&nbsp;
+	
 <br>
 <br>
+
 <a href='https://www.linkedin.com/in/john-jayson-de-leon-73532818b/'>
 	<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height=30>
 </a>&nbsp;
@@ -101,6 +105,7 @@
 
 <br>
 <br>
+
 
 
 

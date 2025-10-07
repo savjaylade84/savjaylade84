@@ -7,8 +7,6 @@
 
 ---
 
-### 👋 Hi, I'm John Jayson De Leon
-
 I'm passionate about designing and building software that solves real-world problems.  
 I enjoy exploring full-stack development, automation, and creative coding — always striving to learn and grow as a developer.
 
@@ -90,5 +88,6 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![InVision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+
 
 

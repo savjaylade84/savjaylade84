@@ -1,6 +1,6 @@
 <br>
 
-<div align="center" style="a{text-decoration: none !important;}">
+<div align="center" style="text-decoration: none !important;">
   <a href="https://savjaylade84.github.io/Jisun.github.io/">
   <img src="https://github.com/savjaylade84/savjaylade84/raw/main/images/jisun.svg" width="150" height="150"/>
   </a>
@@ -10,7 +10,7 @@
 
 <br>
 
-<div align="center" style="a{text-decoration: none !important;}">
+<div align="center" style="text-decoration: none !important;">
 <a href='https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing'>
 	<img src='https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white' height=30>
 </a>&nbsp;
@@ -45,7 +45,7 @@
 <br>
 <hr>
 
-<div align='center' style="a{text-decoration: none !important;}" >
+<div align='center' style="text-decoration: none !important;" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=savjaylade84&stroke=64748b&theme=darc&background=3B2146&ring=0891b2&fire=0891b2PAT_1&currStreakNum=fff&currStreakLabel=fff&sideNums=fffb&sideLabels=fff&dates=fff&card_width=500">
 <br><br>
 <img src='https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=darc&bg_color=3B2146&title_color=fff&text_color=fff&PAT_1&show_icons=true&card_width=500'>
@@ -55,7 +55,7 @@
 
 <hr>
 
-<div align='center' style="a{text-decoration: none !important;}" >
+<div align='center' style="text-decoration: none !important;" >
 <h3>Programming Languages</h3>
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' height=35>
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' height=35>
@@ -69,7 +69,7 @@
 <img src='https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white' height=35>
 </div>
 
-<div align='center' style="a{text-decoration: none !important;}" >
+<div align='center' style="text-decoration: none !important;" >
 <h3>Technologies & Framework</h3>
 <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' height=35>
 <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' height=35>
@@ -92,7 +92,7 @@
 <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' height=35>
 </div>
 
-<div align='center' style="a{text-decoration: none !important;}" >
+<div align='center' style="text-decoration: none !important;" >
 <h3>Design</h3>
 <img src='https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E' height=35>
 <img src='https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white' height=35>

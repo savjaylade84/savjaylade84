@@ -81,7 +81,6 @@
 <img src='https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white' height=35>
 <img src='https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black' height=35>
 <img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' height=35>
-<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height=35>
 <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' height=35> 
 <br>
 <img src='https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' height=35>
@@ -105,6 +104,7 @@
 
 <br>
 <br>
+
 
 
 

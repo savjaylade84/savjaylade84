@@ -37,15 +37,15 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 <!-- 🌸 GITHUB STATS -->
 <br>
 
-  ![Jayson's Github Stats](https://streak-stats.demolab.com/?user=savjaylade84&theme=dark&background=3B2146&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=500&_refresh=true)
+  ![Jayson's Github Stats](https://streak-stats.demolab.com/?user=savjaylade84&theme=dark&background=3B2146&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=500)
   
   <br>
   
-  ![Jayson's Github Stats](https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&show_icons=true&card_width=500&_refresh=true)
+  ![Jayson's Github Stats](https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&show_icons=true&card_width=500)
   
   <br>
   
-  ![Jayson's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500&_refresh=true)
+  ![Jayson's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500)
 
 ---
 
@@ -97,6 +97,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![InVision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+
 
 
 

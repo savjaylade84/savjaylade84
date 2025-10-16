@@ -15,9 +15,11 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 ---
 
 <!-- 🌸 LINKS -->
-🎨 **Portfolio:** [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/)
+🌐 **Portfolio Website:** [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/)
 </br>
-📄 **Resume:** [View my Resume (Google Drive)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing)
+🗂️ **Resume:** [View My Resume (Google Drive)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing)
+</br>
+📑 **Facebook Blog:** [View My Blog in My Facebook Page](https://www.facebook.com/profile.php?id=100067187880921)
 
 ---
 
@@ -101,6 +103,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![InVision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+
 
 
 

@@ -39,7 +39,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 <!-- 🌸 GITHUB STATS -->
 ### 📊 Statistics & 🏆 Achievements
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=savjaylade84&theme=onedark&title=-Reviews)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=savjaylade84&theme=onedark&title=-Reviews&column=3&row=2&margin-h=20&margin-w=20&no-bg=true)
 
   </br>
 
@@ -103,6 +103,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![InVision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+
 
 
 

@@ -73,7 +73,8 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/Hosted%20on-PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 
 #### Frameworks, Platforms & Libraries
 
@@ -141,6 +142,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 
 **Email:** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com)</br>
 **Contact No.:** [+63 995-718-9101](tel:+639957189101) </br>
+
 
 
 

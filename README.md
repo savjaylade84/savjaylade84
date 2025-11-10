@@ -39,8 +39,8 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 <!-- 🌸 GITHUB STATS -->
 ### 📊 Statistics & 🏆 Achievements
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true)
-  <!-- ![trophy](https://github-trophies.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true) -->
+  <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true) -->
+  ![trophy](https://github-trophies.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true)
 
   </br>
 
@@ -142,6 +142,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 
 **Email:** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com)</br>
 **Contact No.:** [+63 995-718-9101](tel:+639957189101) </br>
+
 
 
 

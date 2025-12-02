@@ -39,20 +39,20 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 <!-- 🌸 GITHUB STATS -->
 ### 📊 Statistics & 🏆 Achievements
 
-  <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true) -->
-  ![trophy](https://github-trophies.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true)
+  <!--![trophy](https://github-trophies.vercel.app/?username=savjaylade84&theme=onedark&column=4&margin-h=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,D&margin-w=20&no-bg=true)-->
 
   </br>
 
-  ![Jayson's Github Stats](https://streak-stats.demolab.com/?user=savjaylade84&theme=dark&background=3B2146&ring=0891b2&fire=0891b2&&exclude_days=Sun&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=500)
+  ![Jayson's Github Stats](https://github-readme-streak-stats-puce-alpha.vercel.app/?user=savjaylade84&theme=dark&background=3B2146&ring=0891b2&fire=0891b2&&exclude_days=Sun&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=500)
   
   </br>
   
-  ![Jayson's Github Stats](https://github-readme-stats.vercel.app/api?username=savjaylade84&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&show_icons=true&card_width=500)
+  ![Jayson's Github Stats](https://github-readme-stats-seven-zeta-36.vercel.app/api?username=savjaylade84&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&show_icons=true&card_width=500)
   
   </br>
   
-  ![Jayson's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500)
+  ![Jayson's Top Language](https://github-readme-stats-seven-zeta-36.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500)
 
 ---
 
@@ -142,6 +142,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 
 **Email:** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com)</br>
 **Contact No.:** [+63 995-718-9101](tel:+639957189101) </br>
+
 
 
 

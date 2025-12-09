@@ -10,7 +10,7 @@
 ---
 
 I'm passionate about designing and building software that solves real-world problems.  
-I enjoy exploring full-stack development, automation, and creative coding — always striving to learn and grow as a developer.
+I enjoy exploring full-stack development, automation, and creative coding. always striving to learn and grow as a developer.
 
 ---
 
@@ -142,6 +142,7 @@ I enjoy exploring full-stack development, automation, and creative coding — al
 
 **Email:** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com)</br>
 **Contact No.:** [+63 995-718-9101](tel:+639957189101) </br>
+
 
 
 

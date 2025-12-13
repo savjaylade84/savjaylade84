@@ -66,7 +66,8 @@ I enjoy exploring full-stack development, automation, and creative coding. alway
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=black)
 
 #### Hosting/SaaS
 
@@ -142,6 +143,7 @@ I enjoy exploring full-stack development, automation, and creative coding. alway
 
 **Email:** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com)</br>
 **Contact No.:** [+63 995-718-9101](tel:+639957189101) </br>
+
 
 
 

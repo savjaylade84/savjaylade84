@@ -19,16 +19,15 @@
 
 <!-- 🌸 LINKS -->
 
-| | Connect with Me |  | |
-| :--- | :---         |     :---      | :---      |
-| | 🌐 Portfolio Website | [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/)      | |
-| | 🗂️ Resume | [View My Resume (Google Drive)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing) | |
-| | ⓕ Facebook Blog  | [View My Blog in My Facebook Page](https://www.facebook.com/profile.php?id=100067187880921) |  |
-| | ✉️ Email | [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) |  |
-| |  | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) |  |
-| |  | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com) |  |
-| | 📞 Contact No. | [+63 995-718-9101](tel:+639957189101) |  |
-| | | |
+| Connect with Me |  |
+| :---         |     :---      |
+| 🌐 Portfolio Website | [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/)      |
+| 🗂️ Resume | [View My Resume (Google Drive)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing) | |
+| ⓕ Facebook Blog  | [View My Blog in My Facebook Page](https://www.facebook.com/profile.php?id=100067187880921) |
+| ✉️ Email | [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) |
+|  | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) |
+|  | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com) |
+| 📞 Contact No. | [+63 995-718-9101](tel:+639957189101) |
 
 ##
 

@@ -1,16 +1,10 @@
 # 💼 Professional Overview
 
-</br>
-
 🎨 Designer who learned to code • 💻 Developer who loves design </br>
 ✨ Building beautiful full-stack experiences </br>
 🧐 Interests: Art, Science, Tech, and making things that matter
 
-</br>
-
 ##
-
-</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-jayson-de-leon-73532818b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/savjaylade84/)
@@ -21,11 +15,7 @@
 [![Facebook Page](https://img.shields.io/badge/Facebook_Page-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Jisun-102294825339373)
 [![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/savjaylade/)
 
-</br>
-
 ##
-
-</br>
 
 <!-- 🌸 LINKS -->
 [ 🌐 **Portfolio Website ] |** [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/) |
@@ -37,8 +27,6 @@
 [ ✉︎ **Email ] |** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) |
 </br>
 [ 📞 **Contact No. ] |** [+63 995-718-9101](tel:+639957189101) |
-
-</br>
 
 ##
 
@@ -52,31 +40,18 @@
 
   ![trophy](https://mellifluous-haupia-836204.netlify.app//?username=savjaylade84&theme=onedark&column=4&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=10&no-bg=true)
 
-  </br>
-
-  ##
-
-  </br>
+##
 
   ![Jayson's Github Stats](https://github-readme-streak-stats-puce-alpha.vercel.app/?user=savjaylade84&theme=dark&background=3B2146&ring=0891b2&fire=0891b2&&exclude_days=Sun&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=500)
 
-  </br>
-
-  ##
-
-  </br>
+##
   
   ![Jayson's Github Stats](https://github-readme-stats-seven-zeta-36.vercel.app/api?username=savjaylade84&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&show_icons=true&card_width=500)
 
-  </br>
+##
 
-  ##
-
-  </br>
   
   ![Jayson's Top Language](https://github-readme-stats-seven-zeta-36.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&hide_progress=false&stats_format=percentages&langs_count=15&exclude_repo="github-readme-stats","github-readme-streak-stats","github-trophies"&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500)
-
-</br>
 
 ##
 

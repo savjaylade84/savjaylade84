@@ -8,7 +8,7 @@
 
 </br>
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 </br>
 
@@ -23,7 +23,7 @@
 
 </br>
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 </br>
 
@@ -40,7 +40,7 @@
 
 </br>
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 </br>
 </br>
@@ -54,7 +54,7 @@
 
   </br>
 
-  ---
+  <hr style="height:1px;border:none;background-color: #333;">
 
   </br>
 
@@ -62,7 +62,7 @@
 
   </br>
 
-  ---
+  <hr style="height:1px;border:none;background-color: #333;">
 
   </br>
   
@@ -70,7 +70,7 @@
 
   </br>
 
-  ---
+  <hr style="height:1px;border:none;background-color: #333;">
 
   </br>
   
@@ -78,7 +78,7 @@
 
 </br>
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 </br>
 
@@ -90,61 +90,61 @@
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"><img src="https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=black" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Frameworks, Platforms & Libraries
 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="30"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30"><img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" height="30"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" height="30"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="30"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Design
 
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="30"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="30"><img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" height="30"><img src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" height="30"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" height="30"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Hosting/SaaS
 
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"><img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="30"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30"><img src="https://img.shields.io/badge/Hosted%20on-PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" height="30"><img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Databases / ORM
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="30"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### CI/CD VCS
 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Operating System
 
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### ML/DL
 
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Testing
 
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"><img src="https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Servers
 
 <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" height="30">
 
----
+<hr style="height:1px;border:none;background-color: #333;">
 
 ### Other
 

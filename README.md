@@ -18,15 +18,17 @@
 ##
 
 <!-- 🌸 LINKS -->
-[ 🌐 **Portfolio Website ] |** [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/) |
-</br>
-[ 🗂️ **Resume ] |** [View My Resume (Google Drive)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing) |
-</br>
-[ ⓕ **Facebook Blog ] |** [View My Blog in My Facebook Page](https://www.facebook.com/profile.php?id=100067187880921) |
-</br>
-[ ✉︎ **Email ] |** [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) |
-</br>
-[ 📞 **Contact No. ] |** [+63 995-718-9101](tel:+639957189101) |
+
+| | Connect with Me |  | |
+| :--- | :---         |     :---      | :---      |
+| | 🌐 Portfolio Website | [savjalade84.pythonanywhere.com](https://savjalade84.pythonanywhere.com/)      | |
+| | 🗂️ Resume | [View My Resume (Google Drive)](https://drive.google.com/file/d/1h6D_C8-KVDu13i73hI5CINqgVSidcVbp/view?usp=sharing) | |
+| | ⓕ Facebook Blog  | [View My Blog in My Facebook Page](https://www.facebook.com/profile.php?id=100067187880921) |  |
+| | ✉️ Email | [deleonjohnjayson@proton.me](mailto:deleonjohnjayson@proton.me) |  |
+| |  | [deleonjohnjayson@gmail.com](mailto:deleonjohnjayson@gmail.com) |  |
+| |  | [savjaylade84@gmail.com](mailto:savjaylade84@gmail.com) |  |
+| | 📞 Contact No. | [+63 995-718-9101](tel:+639957189101) |  |
+| | | |
 
 ##
 
@@ -34,7 +36,7 @@
 </br>
 
 <!-- 🌸 GITHUB STATS -->
-## 📊 GitHub Performance & Achievements
+# 📊 GitHub Performance & Achievements
 
   </br>
 
@@ -50,7 +52,6 @@
 
 ##
 
-  
   ![Jayson's Top Language](https://github-readme-stats-seven-zeta-36.vercel.app/api/top-langs/?username=savjaylade84&layout=compact&hide_progress=false&stats_format=percentages&langs_count=15&exclude_repo="github-readme-stats","github-readme-streak-stats","github-trophies"&theme=dark&bg_color=3B2146&title_color=ffffff&text_color=ffffff&card_width=500)
 
 ##
@@ -59,92 +60,70 @@
 
 </br>
 
-## 💻 Technology Stack
+# 💻 Technology Stack
 
-### Programming Languages
-
-##
+## Programming Languages
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"><img src="https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=black" height="30">
 
 ##
 
-### Frameworks, Platforms & Libraries
-
-##
+## Frameworks, Platforms & Libraries
 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="30"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30"><img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" height="30"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" height="30"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="30"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="30">
 
 ##
 
-### Design
-
-##
+## Design
 
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="30"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="30"><img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" height="30"><img src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" height="30"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" height="30"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="30">
 
 ##
 
-### Hosting/SaaS
-
-##
+## Hosting/SaaS
 
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"><img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="30"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30"><img src="https://img.shields.io/badge/Hosted%20on-PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" height="30"><img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30">
 
 ##
 
-### Databases / ORM
-
-##
+## Databases / ORM
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="30"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="30">
 
 ##
 
-### CI/CD VCS
-
-##
+## CI/CD VCS
 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="30">
 
 ##
 
-### Operating System
-
-##
-
+## Operating System
 
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30">
 
 ##
 
-### ML/DL
-
-##
-
+## ML/DL
 
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30">
 
 ##
 
-### Testing
-
-##
+## Testing
 
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"><img src="https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
 
 ##
 
-### Servers
-
-##
+## Servers
 
 <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" height="30">
 
 ##
 
-### Other
-
-##
+## Other
 
 <img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white" height="30"><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" height="30"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="30"><img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" height="30"><img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" height="30">
+
+##

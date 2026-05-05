@@ -13,7 +13,7 @@
 </br>
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/savjaylade84)
 [![Facebook Page](https://img.shields.io/badge/Facebook_Page-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Jisun-102294825339373)
-[![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/savjaylade/)
+[![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/savjaylade/) [![Credly](https://img.shields.io/badge/-Credly-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/john-jayson-de-leon)
 
 ##
 
@@ -36,9 +36,13 @@
 </br>
 
 <!-- 🌸 GITHUB STATS -->
-# 📊 GitHub Performance & Achievements
+# 📊 Performance & Achievements
 
   </br>
+
+![itspecialist databases](images/it-specialist-databases.png)
+
+##
 
   ![trophy](https://mellifluous-haupia-836204.netlify.app//?username=savjaylade84&theme=onedark&column=4&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=10&no-bg=true)
 

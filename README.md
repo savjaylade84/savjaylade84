@@ -40,7 +40,9 @@
 
   </br>
 
-![itspecialist databases](images/it-specialist-databases.png)
+[![it specialist databases](images/it-specialist-databases.png)](https://www.credly.com/badges/8d6a33e1-b2e7-480a-b740-45a91b28f3dc/public_url)
+&nbsp;
+[![it specialist html and css](images/it-specialist-html-and-css.png)](https://www.credly.com/badges/9d146897-502f-4b8a-a3d4-fd2ad0103d89/public_url)
 
 ##
 
